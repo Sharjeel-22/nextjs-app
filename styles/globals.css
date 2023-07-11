@@ -14,6 +14,14 @@
   }
 }
 
+.head_text {
+  @apply mt-5 text-5xl
+  font-extrabold leading-[1.15] text-black sm:text-6xl;
+}
+.orange_gradient {
+  @apply text-orange-500
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
