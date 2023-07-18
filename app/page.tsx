@@ -1,3 +1,4 @@
+"use client";
 import Feed from "@component/Feed";
 import Nav from "@component/Nav";
 import "@styles/globals.css";
